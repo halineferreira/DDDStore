@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{B3A78D68-2AA3-4BD9-A328-3CCDA70E66F1}|">
+  <MonoDevelop.Ide.ItemProperties.4_220-_220Infra.4.1_220-_220Data.DDDStore.Infra.Data FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.3_220-_220Domain.DDDStore.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.0_220-_220Presentation.DDDStore.MVC FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2_220-_220Application.DDDStore.Application FirstBuild="True" />
+</Properties>
