@@ -1,7 +1,40 @@
 ﻿<Properties StartupConfiguration="{B3A78D68-2AA3-4BD9-A328-3CCDA70E66F1}|">
   <MonoDevelop.Ide.ItemProperties.4_220-_220Infra.4.1_220-_220Data.DDDStore.Infra.Data FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.3_220-_220Domain.DDDStore.Domain FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DDDStore.Domain/Entities/Phone.cs">
+    <Files>
+      <File FileName="DDDStore.Domain/Entities/Order.cs" Line="7" Column="47" />
+      <File FileName="DDDStore.Infra.Data/Context/DDDStoreContext.cs" Line="13" Column="55" />
+      <File FileName="DDDStore.MVC/Web.config" Line="11" Column="216" />
+      <File FileName="DDDStore.Domain/Entities/Category.cs" Line="8" Column="40" />
+      <File FileName="DDDStore.Domain/Entities/Customer.cs" Line="14" Column="24" />
+      <File FileName="DDDStore.Domain/Entities/Employee.cs" Line="9" Column="47" />
+      <File FileName="DDDStore.Domain/Entities/Phone.cs" Line="6" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DDDStore" expanded="True">
+            <Node name="0 - Presentation" expanded="True">
+              <Node name="DDDStore.MVC" expanded="True" />
+            </Node>
+            <Node name="3 - Domain" expanded="True">
+              <Node name="DDDStore.Domain" expanded="True">
+                <Node name="Entities" expanded="True">
+                  <Node name="Phone.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="4 - Infra" expanded="True">
+              <Node name="4.1 - Data" expanded="True">
+                <Node name="DDDStore.Infra.Data" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.0_220-_220Presentation.DDDStore.MVC FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
