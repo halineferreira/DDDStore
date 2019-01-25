@@ -42,7 +42,14 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="EntityConfig\AddressConfiguration.cs" />
     <Compile Include="EntityConfig\CustomerConfiguration.cs" />
-    <Compile Include="Repositories\IRepositoryBase.cs" />
+    <Compile Include="Repositories\RepositoryBase.cs" />
+    <Compile Include="Repositories\CustomerRepository.cs" />
+    <Compile Include="Repositories\AddressRepository.cs" />
+    <Compile Include="Repositories\ProductRepository.cs" />
+    <Compile Include="Repositories\PhoneRepository.cs" />
+    <Compile Include="Repositories\CategoryRepository.cs" />
+    <Compile Include="Repositories\OrderRepository.cs" />
+    <Compile Include="Repositories\EmployeeRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Context\" />
