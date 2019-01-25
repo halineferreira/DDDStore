@@ -3,9 +3,9 @@ namespace DDDStore.Domain.Entities
 {
     public class Employee
     {
-        public int id { get; set; }
-        public string name { get; set; }
-        public string profile { get; set; }
-        public string department { get; set; }
+        public int EmployeeId { get; set; }
+        public string Name { get; set; }
+        public string Profile { get; set; }
+        public string Department { get; set; }
     }
 }
