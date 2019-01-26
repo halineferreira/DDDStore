@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace DDDStore.Domain.Entities
 {
@@ -17,5 +18,17 @@ namespace DDDStore.Domain.Entities
         public int CategoryId { get; set; }
         public virtual Category Category { get; set; }
         public bool AutoCommunication { get; set; }
+
+        public bool IsValid()
+        {
+            return Addresses != null && Addresses.Count() >= 2 &&
+                 Phones != null && Phones.Count() >= 2 &&
+                 !string.IsNullOrWhiteSpace(Email);
+        }
+
+        public void UpdatePoints(int points)
+        {
+            Points += points;
+        }
     }
 }

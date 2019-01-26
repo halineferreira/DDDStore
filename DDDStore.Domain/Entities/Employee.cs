@@ -7,5 +7,7 @@ namespace DDDStore.Domain.Entities
         public string Name { get; set; }
         public string Profile { get; set; }
         public string Department { get; set; }
+
+
     }
 }

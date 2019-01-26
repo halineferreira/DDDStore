@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
-using DDDStore.Domain.Interfaces;
+using DDDStore.Domain.Interfaces.Repositories;
 using DDDStore.Infra.Data.Context;
 
 namespace DDDStore.Infra.Data.Repositories

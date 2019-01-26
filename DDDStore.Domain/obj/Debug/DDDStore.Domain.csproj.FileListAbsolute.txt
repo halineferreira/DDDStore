@@ -1,0 +1,6 @@
+/Users/Haline/Projects/DDDStore/DDDStore.Domain/bin/Debug/DDDStore.Domain.dll
+/Users/Haline/Projects/DDDStore/DDDStore.Domain/bin/Debug/DDDStore.Domain.pdb
+/Users/Haline/Projects/DDDStore/DDDStore.Domain/obj/Debug/DDDStore.Domain.csprojAssemblyReference.cache
+/Users/Haline/Projects/DDDStore/DDDStore.Domain/obj/Debug/DDDStore.Domain.csproj.CoreCompileInputs.cache
+/Users/Haline/Projects/DDDStore/DDDStore.Domain/obj/Debug/DDDStore.Domain.dll
+/Users/Haline/Projects/DDDStore/DDDStore.Domain/obj/Debug/DDDStore.Domain.pdb

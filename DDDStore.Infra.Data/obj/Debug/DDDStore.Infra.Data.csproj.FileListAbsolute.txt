@@ -1,0 +1,2 @@
+/Users/Haline/Projects/DDDStore/DDDStore.Infra.Data/obj/Debug/DDDStore.Infra.Data.csprojAssemblyReference.cache
+/Users/Haline/Projects/DDDStore/DDDStore.Infra.Data/obj/Debug/DDDStore.Infra.Data.csproj.CoreCompileInputs.cache
