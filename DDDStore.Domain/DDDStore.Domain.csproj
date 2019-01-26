@@ -51,6 +51,8 @@
     <Compile Include="Interfaces\Services\Department\MaintenanceService.cs" />
     <Compile Include="Interfaces\Services\Department\IRelationshipService.cs" />
     <Compile Include="Interfaces\Services\Department\RelationshipService.cs" />
+    <Compile Include="Interfaces\Services\Department\ISalesService.cs" />
+    <Compile Include="Interfaces\Services\Department\SalesService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Entities\" />

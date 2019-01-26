@@ -1,5 +1,4 @@
-﻿using System;
-namespace DDDStore.Domain.Entities
+﻿namespace DDDStore.Domain.Entities
 {
     public class Address
     {

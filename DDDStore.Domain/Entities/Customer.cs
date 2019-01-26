@@ -13,6 +13,7 @@ namespace DDDStore.Domain.Entities
         public DateTime DateOfBirth { get; set; }
         public virtual IEnumerable<Address> Addresses { get; set; }
         public virtual IEnumerable<Phone> Phones { get; set; }
+        public virtual IEnumerable<Order> Orders { get; set; }
         public string Email { get; set; }
         public int Points { get; set; }
         public int CategoryId { get; set; }
