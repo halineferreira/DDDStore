@@ -1,8 +1,28 @@
 ﻿<Properties StartupConfiguration="{B3A78D68-2AA3-4BD9-A328-3CCDA70E66F1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DDDStore.Domain/Entities/Category.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DDDStore.Domain/Interfaces/Services/IServiceBase.cs">
     <Files>
       <File FileName="DDDStore.Domain/Entities/Address.cs" Line="1" Column="1" />
-      <File FileName="DDDStore.Domain/Entities/Category.cs" Line="11" Column="31" />
+      <File FileName="DDDStore.Domain/Entities/Category.cs" Line="1" Column="1" />
+      <File FileName="DDDStore.Domain/Entities/Customer.cs" Line="4" Column="1" />
+      <File FileName="DDDStore.Domain/Entities/Order.cs" Line="12" Column="53" />
+      <File FileName="DDDStore.Domain/Entities/Phone.cs" Line="15" Column="10" />
+      <File FileName="DDDStore.Domain/Entities/Product.cs" Line="4" Column="6" />
+      <File FileName="DDDStore.Domain/Entities/User.cs" Line="1" Column="1" />
+      <File FileName="DDDStore.Domain/Interfaces/Repositories/IAddressRepository.cs" Line="1" Column="1" />
+      <File FileName="DDDStore.Domain/Interfaces/Repositories/ICategoryRepository.cs" Line="1" Column="1" />
+      <File FileName="DDDStore.Domain/Interfaces/Repositories/ICustomerRepository.cs" Line="1" Column="1" />
+      <File FileName="DDDStore.Domain/Interfaces/Repositories/IOrderRepository.cs" Line="1" Column="1" />
+      <File FileName="DDDStore.Domain/Interfaces/Repositories/IPhoneRepository.cs" Line="1" Column="1" />
+      <File FileName="DDDStore.Domain/Interfaces/Repositories/IProductRepository.cs" Line="1" Column="1" />
+      <File FileName="DDDStore.Domain/Interfaces/Repositories/IRepositoryBase.cs" Line="1" Column="1" />
+      <File FileName="DDDStore.Domain/Interfaces/Repositories/IUserRepository.cs" Line="1" Column="1" />
+      <File FileName="DDDStore.Domain/Interfaces/Services/Department/IMaintenanceService.cs" Line="16" Column="1" />
+      <File FileName="DDDStore.Domain/Interfaces/Services/Department/IRelationshipService.cs" Line="1" Column="1" />
+      <File FileName="DDDStore.Domain/Interfaces/Services/Department/ISalesService.cs" Line="1" Column="1" />
+      <File FileName="DDDStore.Domain/Interfaces/Services/Department/MaintenanceService.cs" Line="11" Column="52" />
+      <File FileName="DDDStore.Domain/Interfaces/Services/Department/RelationshipService.cs" Line="19" Column="79" />
+      <File FileName="DDDStore.Domain/Interfaces/Services/Department/SalesService.cs" Line="8" Column="46" />
+      <File FileName="DDDStore.Domain/Interfaces/Services/IServiceBase.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
