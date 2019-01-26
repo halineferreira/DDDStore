@@ -17,7 +17,7 @@ namespace DDDStore.Domain.Entities
         public int Points { get; set; }
         public int CategoryId { get; set; }
         public virtual Category Category { get; set; }
-        public bool AutoCommunication { get; set; }
+        public bool IsCommunicationEnabled { get; set; }
 
         public bool IsValid()
         {

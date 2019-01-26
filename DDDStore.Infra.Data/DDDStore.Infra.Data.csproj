@@ -49,7 +49,7 @@
     <Compile Include="Repositories\PhoneRepository.cs" />
     <Compile Include="Repositories\CategoryRepository.cs" />
     <Compile Include="Repositories\OrderRepository.cs" />
-    <Compile Include="Repositories\EmployeeRepository.cs" />
+    <Compile Include="Repositories\UserRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Context\" />

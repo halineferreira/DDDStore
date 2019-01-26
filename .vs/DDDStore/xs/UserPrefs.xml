@@ -1,17 +1,5 @@
 ﻿<Properties StartupConfiguration="{B3A78D68-2AA3-4BD9-A328-3CCDA70E66F1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DDDStore.Domain/Entities/Order.cs">
-    <Files>
-      <File FileName="DDDStore.Domain/Interfaces/Services/IServiceBase.cs" Line="14" Column="6" />
-      <File FileName="DDDStore.Domain/Entities/Address.cs" Line="17" Column="40" />
-      <File FileName="DDDStore.Domain/Entities/Customer.cs" Line="33" Column="1" />
-      <File FileName="DDDStore.Domain/Entities/Employee.cs" Line="10" Column="9" />
-      <File FileName="DDDStore.Domain/Interfaces/Services/Team/IMaintenanceService.cs" Line="10" Column="40" />
-      <File FileName="DDDStore.Domain/Interfaces/Services/Team/MaintenanceService.cs" Line="43" Column="50" />
-      <File FileName="DDDStore.Domain/Interfaces/Repositories/IRepositoryBase.cs" Line="10" Column="20" />
-      <File FileName="DDDStore.Domain/Entities/Category.cs" Line="10" Column="26" />
-      <File FileName="DDDStore.Domain/Entities/Order.cs" Line="11" Column="29" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.0_220-_220Presentation.DDDStore.MVC FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />

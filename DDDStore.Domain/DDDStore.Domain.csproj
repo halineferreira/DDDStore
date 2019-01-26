@@ -35,20 +35,22 @@
     <Compile Include="Entities\Address.cs" />
     <Compile Include="Entities\Phone.cs" />
     <Compile Include="Entities\Category.cs" />
-    <Compile Include="Entities\Employee.cs" />
+    <Compile Include="Entities\User.cs" />
     <Compile Include="Entities\Order.cs" />
     <Compile Include="Entities\Product.cs" />
     <Compile Include="Interfaces\Repositories\IAddressRepository.cs" />
     <Compile Include="Interfaces\Repositories\ICategoryRepository.cs" />
     <Compile Include="Interfaces\Repositories\ICustomerRepository.cs" />
-    <Compile Include="Interfaces\Repositories\IEmployeeRepository.cs" />
+    <Compile Include="Interfaces\Repositories\IUserRepository.cs" />
     <Compile Include="Interfaces\Repositories\IOrderRepository.cs" />
     <Compile Include="Interfaces\Repositories\IPhoneRepository.cs" />
     <Compile Include="Interfaces\Repositories\IProductRepository.cs" />
     <Compile Include="Interfaces\Repositories\IRepositoryBase.cs" />
     <Compile Include="Interfaces\Services\IServiceBase.cs" />
-    <Compile Include="Interfaces\Services\Team\IMaintenanceService.cs" />
-    <Compile Include="Interfaces\Services\Team\MaintenanceService.cs" />
+    <Compile Include="Interfaces\Services\Department\IMaintenanceService.cs" />
+    <Compile Include="Interfaces\Services\Department\MaintenanceService.cs" />
+    <Compile Include="Interfaces\Services\Department\IRelationshipService.cs" />
+    <Compile Include="Interfaces\Services\Department\RelationshipService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Entities\" />
@@ -56,7 +58,7 @@
     <Folder Include="Interfaces\" />
     <Folder Include="Interfaces\Repositories\" />
     <Folder Include="Interfaces\Services\" />
-    <Folder Include="Interfaces\Services\Team\" />
+    <Folder Include="Interfaces\Services\Department\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
